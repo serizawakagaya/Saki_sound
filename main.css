@@ -2,8 +2,13 @@ body {
   font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
   font-family:"Rampart One","monospace";}
 html {
-    background-color: #fc048c;
+    background-color: #ff9ed3;
   }
+button {
+    font-size: 10px; 
+    font-family:"Rubik+Mono+One","Rampart One";}
+
+
 h1 {
     font-size: 60px;
     text-align: center;
