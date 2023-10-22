@@ -3,7 +3,7 @@ myHeading.textContent = "SAKI!";
 
 /*var button1 = */
 document.querySelector("button").onclick = function () {
-    const music = new Audio('haoyay.mp3');
+    const music = new Audio('\src\sound\haoyay.mp3');
     music.play();
     myHeading.textContent = "SAKI!??!!";
 };
