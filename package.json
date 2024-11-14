@@ -1,8 +1,8 @@
 {
-    "name": "my-package",
-    "scripts": {
-      "build": "babel src -d lib",
-      "test": "jest",
-      "start": "browsername <index.html>"
-    }
-  }
+  "name": "Sound",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:serizawakagaya/Saki_sound.git",
+  "author": "serizawakagaya <a32441559@gmail.com>",
+  "license": "MIT"
+}
