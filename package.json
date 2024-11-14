@@ -3,6 +3,6 @@
     "scripts": {
       "build": "babel src -d lib",
       "test": "jest",
-      "start": "npm run main.js"
+      "start": "browsername <index.html>"
     }
   }
